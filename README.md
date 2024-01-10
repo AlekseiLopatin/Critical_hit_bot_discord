@@ -26,11 +26,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+You play Dungeons and Dragons and you use extended tables for critical hits? This application is for you! This discord bot is made for a fantasy tabletop role-playing game Dungeons and Dragons (DnD). If you get a critical hit while playing DnD, use this chat bot to define the level of your crit (damage type matters).
+[Screenshot_crit_bot5](https://github.com/AlekseiLopatin/critical_hit_bot/assets/135117364/28803f87-5fb7-42da-9c76-814f368c414a)  
 
-[![Critical_hit Screen Shot]![Screenshot_crit_bot5](https://github.com/AlekseiLopatin/critical_hit_bot/assets/135117364/28803f87-5fb7-42da-9c76-814f368c414a)
-)
 
-A discord bot for a fantasy tabletop role-playing game DnD.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -58,14 +57,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
+* [](Discord)
+* [](LongStoryShort)
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
