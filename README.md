@@ -1,11 +1,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  [critical_hit](https://github.com/AlekseiLopatin/critical_hit_bot/assets/135117364/aff8e722-4fe9-4313-b97e-0d879850fd37) alt="Logo" width="80" height="80"
+  <a href="[https://github.com/github_username/repo_name](https://github.com/AlekseiLopatin/critical_hit_bot)">
+    <img src="https://github.com/AlekseiLopatin/critical_hit_bot/assets/135117364/aff8e722-4fe9-4313-b97e-0d879850fd37" alt="Logo" width="80" height="80">
+  </a>
 </div>
 
-<h3 align="center">Critical_hit_bot</h3>
 
+<h3 align="center">Critical_hit_bot</h3>
 
 
 <!-- TABLE OF CONTENTS -->
