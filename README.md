@@ -26,26 +26,29 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-You play Dungeons and Dragons and you use extended tables for critical hits? This application is for you! This discord bot is made for a fantasy tabletop role-playing game Dungeons and Dragons (DnD). If you get a critical hit while playing DnD, use this chat bot to define the level of your crit (damage type matters).[Screenshot_crit_bot5](https://github.com/AlekseiLopatin/critical_hit_bot/assets/135117364/28803f87-5fb7-42da-9c76-814f368c414a)
+FOR DnD ONLY!!! When you get a critical hit while playing DnD, use this chat bot to define the level of your crit (damage type matters) Critical Hit Bot can do it faster for you, no need to use the book.
+![Screenshot_crit_bot5](https://github.com/AlekseiLopatin/critical_hit_bot/assets/135117364/4d7874ef-8584-4488-a100-ce3bed37a69c)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+1) Create a channel in discord and add the bot to the channel 
+2) Add your discord bot token to the code
+3) Run the code
+4) Your bot is working while your code is running
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to th
+The result can be shown in 2 ways, manually (by using '/' commands), and by rolling d100 in an interactive character sheet application [LongStoryShort](https://longstoryshort.app/about/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,8 +68,8 @@ _For more examples, please refer to the
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [](Discord)
-* [](LongStoryShort)
+* [Discord]()
+* [LongStoryShort]()
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
