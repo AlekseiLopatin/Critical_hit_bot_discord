@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="[critical_hit](https://github.com/AlekseiLopatin/critical_hit_bot/assets/135117364/aff8e722-4fe9-4313-b97e-0d879850fd37)" alt="Logo" width="80" height="80">
+  <[critical_hit](https://github.com/AlekseiLopatin/critical_hit_bot/assets/135117364/aff8e722-4fe9-4313-b97e-0d879850fd37) alt="Logo" width="80" height="80">
 </div>
 
 <h3 align="center">Critical_hit_bot</h3>
