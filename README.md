@@ -26,8 +26,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-You play Dungeons and Dragons and you use extended tables for critical hits? This application is for you! This discord bot is made for a fantasy tabletop role-playing game Dungeons and Dragons (DnD). If you get a critical hit while playing DnD, use this chat bot to define the level of your crit (damage type matters).
-[Screenshot_crit_bot5](https://github.com/AlekseiLopatin/critical_hit_bot/assets/135117364/28803f87-5fb7-42da-9c76-814f368c414a)  
+You play Dungeons and Dragons and you use extended tables for critical hits? This application is for you! This discord bot is made for a fantasy tabletop role-playing game Dungeons and Dragons (DnD). If you get a critical hit while playing DnD, use this chat bot to define the level of your crit (damage type matters).  
+[Screenshot_crit_bot5](https://github.com/AlekseiLopatin/critical_hit_bot/assets/135117364/28803f87-5fb7-42da-9c76-814f368c414a)
 
 
 
