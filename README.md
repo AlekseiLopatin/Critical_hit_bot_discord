@@ -10,6 +10,9 @@
 
 <h3 align="center">Critical_hit_bot</h3>
 
+  <p align="center">
+    project_description
+  </p>
 
 <!-- TABLE OF CONTENTS -->
 <details>
