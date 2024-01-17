@@ -32,6 +32,7 @@
 ## About The Project
 FOR DnD ONLY (and for personal use only)!!! When you get a critical hit while playing DnD, use this chat bot to define the level of your crit (damage type matters). Critical Hit Bot can do it faster for you, no need to use the book. 
 ![Screenshot_crit_bot5](https://github.com/AlekseiLopatin/critical_hit_bot/assets/135117364/4d7874ef-8584-4488-a100-ce3bed37a69c)
+<br />
 Here are the books used (created by [Nord Games](https://nordgamesllc.com/): 
 1) [Critical hits for players.pdf](https://github.com/AlekseiLopatin/critical_hit_bot/files/13960889/Critical.hits.for.players.pdf)
 2) [Critical hits for game master.pdf](https://github.com/AlekseiLopatin/critical_hit_bot/files/13960913/Critical.hits.for.game.master.pdf)
