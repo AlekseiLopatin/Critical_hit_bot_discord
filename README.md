@@ -11,7 +11,7 @@
 <h3 align="center">Critical_hit_bot</h3>
 
   <p align="center">
-    project_description
+    A discord bot for a fantasy tabletop role-playing game DnD, that rolls a different types of dices from d6 to d100 based on types of damage and a player.
   </p>
 
 <!-- TABLE OF CONTENTS -->
