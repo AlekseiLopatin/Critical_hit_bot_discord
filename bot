@@ -5,7 +5,7 @@ import random
 intents = discord.Intents.default() # Подключаем "Разрешения"
 intents.message_content = True
 config = {
-    'token': 'MTA4Mjg2MTc2Mjk0MjA4MzA3Mg.GqEdP8.lv8cklkrNfKpnFcvv82BVfqeqcX6nZWP7Qc0xk',
+    'token': ' ',
     'prefix': '/',
 }
 # Задаём префикс и интенты
